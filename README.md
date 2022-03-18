@@ -1,6 +1,3 @@
-# mCTF
+# ctf
 
-
-All my mCTF writeups
-
-Also, trivial is not trivial  
+Most of my CTF writeups!
